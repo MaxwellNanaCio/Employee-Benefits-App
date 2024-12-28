@@ -17,4 +17,11 @@ The MiBenefits Application has had a significant impact on Olam's employee exper
 - Improved employee satisfaction and engagement by empowering them to take control of their well-being
 - Reduced the administrative burden on the HR team by automating various benefit-related tasks
 
+### Images Below
 - ![image](https://github.com/user-attachments/assets/ade31bea-2b79-48b6-9b7c-44573cef4ae2)
+- ![image](https://github.com/user-attachments/assets/cf80c14e-ed82-4460-90d2-f2cd3801e73c)
+- ![image](https://github.com/user-attachments/assets/e6bb7385-b9ba-4d76-9b91-03310902386e)
+- ![image](https://github.com/user-attachments/assets/5733cb0b-4a94-4cfc-8dbd-d0d16c76e110)
+
+
+
